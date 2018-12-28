@@ -1,9 +1,8 @@
-{
   "profiles":[
   {
     "id":1,
     "name":"john",
     "age":21
   }
-             ]
-}
+    ]
+
