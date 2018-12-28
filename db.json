@@ -9,27 +9,6 @@
          "month": 4,
          "day": 23
              }
-  },
-   {
-    "id":2,
-    "name":"johnny",
-    "age":22,
-   "dob" :  {
-         "year": 2013,
-         "month": 4,
-         "day": 23
-             }
-  },
-   {
-    "id":3,
-    "name":"johnne",
-    "age":23,
-     "dob" :  {
-         "year": 2012,
-         "month": 4,
-         "day": 23
-             }
   }
-   
- ]
+    ]
 }
