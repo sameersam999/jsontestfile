@@ -1,6 +1,6 @@
 {
   "profiles":[
-    { "id":1, "name":"john", "age":21 },
+    { "id":1, "name":"john", "age":21, "dob" : {"year": 2018, "month": 12, "date":28} },
     { "id":2, "name":"jane", "age":23}
     ]
 }
