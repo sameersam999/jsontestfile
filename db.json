@@ -20,7 +20,11 @@
     { "id":18, "name":"rohan", "age":23, "date" : {"year": 2018, "month": 12, "day":28} },
     { "id":19, "name":"chandu", "age":23, "date" : {"year": 2018, "month": 12, "day":28} },
     { "id":20, "name":"ram", "age":23, "date" : {"year": 2018, "month": 12, "day":28} },
-    { "id":21, "name":"ramesh", "age":23, "dates":"10/12/2018"}
+    { "id":21, "name":"ramesh", "age":23, "dates":"10/12/2018"},
+    { "id":22, "name":"ramsh", "age":23, "dates":"10-12-2018"},
+    { "id":23, "name":"rash", "age":23, "dates":"2018/03/04"},
+    { "id":24, "name":"rsh", "age":23, "dates":"2018-03-04"}
+    
     
     ]
 }
