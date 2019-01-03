@@ -23,8 +23,7 @@
     { "id":21, "name":"ramesh", "age":23, "dates":"10/12/2018"},
     { "id":22, "name":"ramsh", "age":23, "dates":"10-12-2018"},
     { "id":23, "name":"rash", "age":23, "dates":"2018/03/04"},
-    { "id":24, "name":"rsh", "age":23, "dates":"2018-03-04"},
-    { "id":25, "name":"base64", "age":1, "date" : {"year": 2019, "month":1, "day":3} }
+    { "id":24, "name":"base64", "age":1, "date" : {"year": 2019, "month":1, "day":3} }
     
     ]
 }
